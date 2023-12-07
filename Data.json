@@ -1,5 +1,23 @@
 [
   {
+    id: 1,
+    brand: "ExampleBrand",
+    model: "PhoneX",
+    year: 2022,
+    screenSize: 6.2,
+    storage: 128,
+    ram: 6,
+    camera: {
+      main: 48,
+      front: 20
+    },
+    battery: 4000,
+    price: 699.99,
+    colors: ["Black", "Silver", "Blue"],
+    features: ["4G", "Bluetooth 5.0", "Fingerprint Sensor", "Wireless Charging"]
+  },
+  {
+     id: 3,
     "brand": "ExampleBrand",
     "model": "PhoneX",
     "year": 2022,
@@ -16,6 +34,75 @@
     "features": ["4G", "Bluetooth 5.0", "Fingerprint Sensor", "Wireless Charging"]
   },
   {
+     id: 3,
+    "brand": "AnotherBrand",
+    "model": "UltraPhone",
+    "year": 2023,
+    "screenSize": 6.5,
+    "storage": 256,
+    "ram": 8,
+    "camera": {
+      "main": 64,
+      "front": 32
+    },
+    "battery": 5000,
+    "price": 899.99,
+    "colors": ["Red", "Gold", "White"],
+    "features": ["5G", "NFC", "Water-Resistant", "Face Unlock"]
+  },
+  {
+     id: 4,
+    "brand": "AnotherBrand",
+    "model": "UltraPhone",
+    "year": 2023,
+    "screenSize": 6.5,
+    "storage": 256,
+    "ram": 8,
+    "camera": {
+      "main": 64,
+      "front": 32
+    },
+    "battery": 5000,
+    "price": 899.99,
+    "colors": ["Red", "Gold", "White"],
+    "features": ["5G", "NFC", "Water-Resistant", "Face Unlock"]
+  },
+  {
+     id: 5,
+    "brand": "AnotherBrand",
+    "model": "UltraPhone",
+    "year": 2023,
+    "screenSize": 6.5,
+    "storage": 256,
+    "ram": 8,
+    "camera": {
+      "main": 64,
+      "front": 32
+    },
+    "battery": 5000,
+    "price": 899.99,
+    "colors": ["Red", "Gold", "White"],
+    "features": ["5G", "NFC", "Water-Resistant", "Face Unlock"]
+  },
+  {
+     id: 6,
+    "brand": "AnotherBrand",
+    "model": "UltraPhone",
+    "year": 2023,
+    "screenSize": 6.5,
+    "storage": 256,
+    "ram": 8,
+    "camera": {
+      "main": 64,
+      "front": 32
+    },
+    "battery": 5000,
+    "price": 899.99,
+    "colors": ["Red", "Gold", "White"],
+    "features": ["5G", "NFC", "Water-Resistant", "Face Unlock"]
+  },
+  {
+     id: 7,
     "brand": "AnotherBrand",
     "model": "UltraPhone",
     "year": 2023,
